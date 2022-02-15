@@ -1,0 +1,34 @@
+{
+  "name": "Drip Card #0",
+  "symbol": "Drip Card",
+  "description": "A rewards card for the SCUMBAG$ project community. Holders are rewarded weekly with an allowance of Drip Chips based on the amount of BAG$ held.",
+  "seller_fee_basis_points": 2500,
+  "image": "https://raw.githubusercontent.com/BHALEYART/scum-experimental/main/DRIP%20PASS%20V1.gif",
+  "external_url": "https://dripchips.io",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "Edition",
+      "value": "Genesis"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BHALEYART/scum-experimental/main/DRIP%20PASS%20V1.gif",
+        "type": "image/gif"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2L5XkJdPfhsetVCvdSuxrS9bW73fAbBrsNJuTJxA75C3",
+        "share": 80
+      },
+      {
+        "address": "4ejehx7PJVYpLcfivsshBTYsnvr1ni9TPHZGcCkRKBQb",
+        "share": 20
+      }
+    ]
+  }
+}
